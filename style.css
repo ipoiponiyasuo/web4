@@ -29,6 +29,11 @@ footer{
 .Animal{
     background-image: url(image/wallpaper.jpg);    
    }
+
+.font{
+    font-size: 17px;
+    padding-bottom: 0 !important;
+   }
 .zoom {
  
     transition: transform .2s;
