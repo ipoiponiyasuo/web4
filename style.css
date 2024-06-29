@@ -25,6 +25,10 @@ footer{
     color: rgb(0, 0, 0);
     
 }
+
+.Animal{
+    background-image: url(image/wallpaper.jpg);    
+   }
 .zoom {
  
     transition: transform .2s;
